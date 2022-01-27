@@ -1,0 +1,16 @@
+package Threads;
+
+public class thtt extends Thread {
+	
+	@Override
+	public void run() {
+		System.out.println("this is thread");
+	}
+
+}
+class uuuuu extends Thread{
+	@Override
+	public void run() {
+		System.out.println("234567890-");
+	}
+}

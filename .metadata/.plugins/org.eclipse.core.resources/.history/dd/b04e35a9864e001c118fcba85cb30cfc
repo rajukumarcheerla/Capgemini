@@ -1,0 +1,12 @@
+package java8;
+
+interface funy{
+	default void method() {
+		System.out.println("rajkumar");
+	}
+	public void meth();
+}
+
+public class DefaultMethods {
+
+}

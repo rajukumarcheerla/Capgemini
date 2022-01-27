@@ -1,0 +1,5 @@
+package com.basic.test.entity;
+
+public class student {
+
+}

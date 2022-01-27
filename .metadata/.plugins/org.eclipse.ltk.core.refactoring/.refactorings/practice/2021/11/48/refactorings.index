@@ -1,0 +1,12 @@
+1637830312286	Extract local variable 'nextInt'
+1637856798504	Extract local variable 'keySet'
+1637856999407	Extract local variable 'entrySet'
+1637891883745	Move compilation unit
+1637891918291	Rename package 'practice'
+1637896910598	Extract local variable 'list2'
+1637907461702	Extract local variable 'anyMatch'
+1637907885901	Extract local variable 'collect'
+1637908130693	Extract local variable 'min'
+1637909004276	Extract local variable 'set'
+1637912226985	Extract local variable 'collect'
+1637921927781	Extract local variable 'collect2'
